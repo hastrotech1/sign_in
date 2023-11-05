@@ -9,4 +9,6 @@ submitButton.addEventListener('click', function() {
   // Validate the user input
 
   // Submit the form
+
+  //...
 });
